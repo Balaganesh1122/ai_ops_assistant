@@ -129,6 +129,4 @@ Try these commands to see the agents in action:
 **Q: "Bad Credentials" (GitHub)?**
 *   **Fix**: Ensure your GitHub token starts with `ghp_` and has `repo` access scope.
 
----
-**Submission for GenAI Intern Assignment**
-*Drafted with ❤️ by Candidate*
+
