@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 Deploment is live at : 
-[![Streamlit App]](https://aiopsassistant-fflhgn4ruugovxpxxpquac.streamlit.app/)
+[Streamlit App](https://aiopsassistant-fflhgn4ruugovxpxxpquac.streamlit.app/)
 
 A powerful, **agentic AI agent** that transforms natural language requests into executed actions. Built with a robust **Multi-Agent Architecture**, it autonomously plans, executes, and validates tasks using real-world APIs.
 
