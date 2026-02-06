@@ -4,6 +4,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-009688?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22%2B-FF4B4B?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+Deploment is live at : 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiopsassistant-fflhgn4ruugovxpxxpquac.streamlit.app/)
 
 A powerful, **agentic AI agent** that transforms natural language requests into executed actions. Built with a robust **Multi-Agent Architecture**, it autonomously plans, executes, and validates tasks using real-world APIs.
